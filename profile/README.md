@@ -1,5 +1,13 @@
 # Thynqit Labs
 
+<p align="left">
+  <img src="https://img.shields.io/badge/AI--First-Engineering-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Accelerator--Led-Delivery-FF4D6D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Driven-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Native-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-Enabled-24292E?style=for-the-badge" />
+</p>
+
 **AI-First Digital Engineering. Accelerator-Led Delivery. Architecture-Driven Scale.**
 
 Thynqit Labs is an AI-native digital engineering firm helping enterprises, product companies, and startups build, modernize, and scale secure, high-performance digital platforms.
