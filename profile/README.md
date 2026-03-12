@@ -14,6 +14,8 @@ Thynqit Labs is an AI-native digital engineering firm helping enterprises, produ
 
 We embed AI across the entire Software Development Lifecycle (SDLC) and leverage in-house framework accelerators to reduce time-to-market while ensuring long-term architectural integrity.
 
+🔗 Learn more: https://www.thynqit.com/company
+
 ---
 
 ## 🚀 What We Do
@@ -26,7 +28,7 @@ We design and deliver scalable digital platforms across:
 - Enterprise mobility platforms  
 - Performance & stability engineering  
 
-🔗 Learn more: https://www.thynqit.com/mobile-engineering
+🔗 Learn more: https://www.thynqit.com/engineering-services/mobile
 
 ---
 
@@ -36,7 +38,7 @@ We design and deliver scalable digital platforms across:
 - Modular & micro-frontend architectures  
 - Core Web Vitals & performance optimization  
 
-🔗 Learn more: https://www.thynqit.com/web-engineering
+🔗 Learn more: https://www.thynqit.com/engineering-services/web
 
 ---
 
@@ -46,7 +48,7 @@ We design and deliver scalable digital platforms across:
 - DevOps & CI/CD automation  
 - Infrastructure as Code & secure deployments  
 
-🔗 Learn more: https://www.thynqit.com/cloud-engineering
+🔗 Learn more: https://www.thynqit.com/engineering-services/cloud
 
 ---
 
@@ -56,7 +58,7 @@ We design and deliver scalable digital platforms across:
 - Performance & security validation  
 - Release quality governance  
 
-🔗 Learn more: https://www.thynqit.com/quality-engineering
+🔗 Learn more: https://www.thynqit.com/engineering-services/quality
 
 ---
 
@@ -66,7 +68,7 @@ We design and deliver scalable digital platforms across:
 - Digital transformation strategy  
 - Platform modernization consulting  
 
-🔗 Learn more: https://www.thynqit.com/product-strategy-consulting
+🔗 Learn more: https://www.thynqit.com/engineering-services/product-strategy
 
 ---
 
@@ -76,7 +78,7 @@ We design and deliver scalable digital platforms across:
 - Agile delivery pods  
 - AI-enabled developer productivity  
 
-🔗 Learn more: https://www.thynqit.com/dedicated-product-teams
+🔗 Learn more: https://www.thynqit.com/engineering-services/staff-augmentation
 
 ---
 
@@ -95,7 +97,7 @@ We embed AI into every stage of delivery:
 
 Our goal: **compress delivery cycles without compromising quality.**
 
-🔗 Explore our AI-native approach: https://www.thynqit.com/ai-across-sdlc
+🔗 Explore our AI-native approach: https://www.thynqit.com/ai-engineering
 
 ---
 
@@ -146,9 +148,7 @@ We build long-term platforms.
 - CPG  
 - EdTech  
 - SaaS & Product Companies  
-- Startups & Scale-Ups  
-
-🔗 Industries overview: https://www.thynqit.com/industries
+- Startups & Scale-Ups
 
 ---
 
